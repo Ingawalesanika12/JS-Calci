@@ -1,1 +1,2 @@
-# Js_calsi_master
+# Jscalci
+Simple calculator using javascript.
